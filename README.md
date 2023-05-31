@@ -2,9 +2,9 @@
 
 
 
-**Twitter Scraper Data Pipeline**
 
-**Problem Statement**
+
+#### **Problem Statement**
 
 Organization  wants to collect data from Twitter in order to better understand their target audience and their interests or  gain insights about their competitors. They want to collect tweets related to their products and services, as well as tweets from their competitors and industry influencers. and store them in a centralized location where  they  can perform further analysis and visualization.However, collecting this data manually is time-consuming and error-prone.They would need an automated data pipeline that can scrape Twitter data, extract relevant information, transform the data into a usable format, and load it into a data warehouse.
 
